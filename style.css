@@ -50,7 +50,7 @@ body > * {
   width: 577px;
   position: absolute;
   left: 10%;
-  top: 42%;
+  top: 31%;
   z-index: -1;
 }
 
@@ -79,7 +79,7 @@ body > * {
 
 .first-body {
   height: 300px;
-  margin-top: 21%;
+  margin-top: 30%;
 }
 
 .first-body img {
